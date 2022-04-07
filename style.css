@@ -5,11 +5,11 @@
 }
 
 img {
-    width: 300px;
-    filter: contrast(2) blur(2px) brightness(0.5);
+    width: 400px;
+    /* filter: contrast(2) blur(2px) brightness(0.5); */
 }
 
-img:hover {
+/* img:hover {
     animation-name: imge;
     animation-duration: 3s;
 }
@@ -17,7 +17,7 @@ img:hover {
 @keyframes imge {
     0% {transform:translate(0px, 0px);}
     25% {transform: translate(100px, 0px);}
-}
+} */
 
 main, header {
     width: 70%;
