@@ -1,0 +1,11 @@
+{
+  "name": "odin-recipes-main",
+  "version": "1.0.0",
+  "description": "<p>Estaré haciendo acá mis retos de The Odin Project sobre HTML, CSS y JavaScript. Como todavía no sé bien de qué van, no sé a qué me estaría enfrentando.</p>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
