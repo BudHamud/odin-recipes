@@ -68,18 +68,7 @@ body {
 
 img {
   width: 380px;
-  /* filter: contrast(2) blur(2px) brightness(0.5); */
 }
-
-/* img:hover {
-    animation-name: imge;
-    animation-duration: 3s;
-}
-
-@keyframes imge {
-    0% {transform:translate(0px, 0px);}
-    25% {transform: translate(100px, 0px);}
-} */
 
 main,
 header {
@@ -106,6 +95,9 @@ main ol {
   border: solid 1px;
   margin-bottom: 30px;
   text-align: left;
+  &:last-child {
+    margin-bottom: 0px;
+  }
 }
 
 h1 {
@@ -115,4 +107,8 @@ h1 {
 .ing {
   margin-top: 30px;
   text-align: left;
+}
+
+main {
+  padding-top: 20px;
 }
